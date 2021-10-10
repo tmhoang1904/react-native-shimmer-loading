@@ -89,7 +89,10 @@
   },
   "release-it": {
     "git": {
-      "requireBranch": "master"
+      "requireBranch": "master",
+      "commitMessage": "Release ${version}",
+      "tag": true,
+      "tagAnnotation": "Release ${version}"
     },
     "npm": {
       "publish": true
