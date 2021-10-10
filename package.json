@@ -1,6 +1,6 @@
 {
   "name": "react-native-shimmer-loading",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shimmer Loading in Reanimated",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -45,7 +45,7 @@
   "homepage": "https://github.com/tmhoang1904/react-native-shimmer-loading#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
-  },  
+  },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^2.0.0",
@@ -73,7 +73,7 @@
     "react": "*",
     "react-native": "*",
     "react-native-reanimated": "^2.2.0",
-    "react-native-redash": "^16.2.2" 
+    "react-native-redash": "^16.2.2"
   },
   "jest": {
     "preset": "react-native",
